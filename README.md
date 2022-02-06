@@ -1,3 +1,7 @@
+# Medium_clone_angular
+
+my first angular project
+
 # ForoProject
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.3.
