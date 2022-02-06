@@ -1,0 +1,4 @@
+@compo
+export class RegisterComponet{
+
+}
